@@ -1,0 +1,1 @@
+tail=add_to_empty(12);
