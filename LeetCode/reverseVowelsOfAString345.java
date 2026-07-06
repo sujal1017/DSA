@@ -1,6 +1,3 @@
-
-import java.awt.geom.FlatteningPathIterator;
-
 public class reverseVowelsOfAString345 {
     public String reverseVowelsOfAString(String s){
         int n = s.length();
