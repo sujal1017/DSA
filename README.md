@@ -31,9 +31,9 @@ This repository contains my Java solutions to Data Structures and Algorithms pro
 
 ## Connect With Me
 
-- GitHub: https://github.com/sujal1017
-- LinkedIn: *(Add your LinkedIn URL)*
-- X (Twitter): *(Add your X profile URL)*
+- GitHub: [github.com/sujal1017](https://github.com/sujal1017)
+- LinkedIn: [linkedin.com/in/sujal-jartarghar-332b76298](https://www.linkedin.com/in/sujal-jartarghar-332b76298/)
+- X (Twitter): [x.com/sujaljartarghar](https://x.com/sujaljartarghar)
 
 ---
 
