@@ -56,7 +56,7 @@ public class mergeTwoSortedLists21{
 
         ListNode result = obj.Solution(list1, list2);
 
-        System.out.println("null");
+        obj.printList(result);
 
     }
 }
